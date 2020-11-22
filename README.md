@@ -49,4 +49,4 @@ You can update, change and do whatever you like with diagrams. if you want impro
 
 ## License 
 
-Creative Common Zero (CC0). See [Licence.md](https://github.com/Gutek/fallacies-of-distributed-computing/blob/main/LICENSE) file. 
+Creative Common Zero (CC0). See [LICENSE](https://github.com/Gutek/fallacies-of-distributed-computing/blob/main/LICENSE) file. 
